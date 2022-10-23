@@ -5,7 +5,7 @@
 - Next year, I will go to peking University to study for my PhD.
 
 #### Research Interests
-- AI2SE & SE2AI
+- AI4SE & SE4AI
 - Graph Representation Learning & Graph query and mining
 - intelligent tools for database
 
