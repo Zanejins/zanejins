@@ -12,6 +12,7 @@
 #### Recent work
 - I am currently work on name entity recognition to facilitate the extraction of modeling elements.
 - I am learning CS224w courses.
+- I am read C++ primer plus again
 - I am looking for collaborate on intelligent tools for database.
 
 
