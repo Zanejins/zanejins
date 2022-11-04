@@ -5,9 +5,9 @@
 - Next year, I will go to peking University to study for my PhD.
 
 #### Research Interests
-- AI4SE & SE4AI
+- AI4SE & SE4AI ---> Software Requirement Elicitation by machine learning
 - Graph Representation Learning & Graph query and mining
-- intelligent tools for database
+- intelligent tools for software development
 
 #### Recent work
 - I am currently work on name entity recognition to facilitate the extraction of modeling elements.
