@@ -11,7 +11,6 @@
 
 #### Recent work
 - I am currently work on name entity recognition to facilitate the extraction of modeling elements.
-- I am learning CS224w courses.
 - I am read C++ primer plus again
 - I am looking for collaborate on intelligent tools for database.
 
@@ -30,6 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanejins&langs_count=5&layout=compact&hide=HTML,CSS,YACC,Vim%20script,Javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Zanejins's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanejins&theme=tokyonight&count_private=true&show_icons=true)
+
 
