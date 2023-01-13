@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanejins&langs_count=5&layout=compact&hide=HTML,CSS,YACC,Vim%20script,Javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Zanejins's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanejins&theme=tokyonight&count_private=true&show_icons=true)
 
