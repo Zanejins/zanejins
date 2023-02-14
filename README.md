@@ -14,6 +14,12 @@
 - I am read C++ primer plus again
 - I am looking for collaborate on intelligent tools for database.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanejins&langs_count=5&layout=compact&hide=HTML,CSS,YACC,Vim%20script,Javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Zanejins's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanejins&theme=tokyonight&count_private=true&show_icons=true)
+
+![](https://github.com/Zanejins/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Zanejins/github-stats/blob/master/generated/languages.svg)
+
 
 <!--
 **Zanejins/zanejins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanejins&langs_count=5&layout=compact&hide=HTML,CSS,YACC,Vim%20script,Javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Zanejins's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanejins&theme=tokyonight&count_private=true&show_icons=true)
-
