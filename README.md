@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 #### About Me
-- Now I am an undergraduate student of software engineering in XiDian University.
-- I will go to peking University to study for my PhD.
+
 
 #### Research Interests
 - AI4SE & SE4AI ---> Software Requirement Elicitation by machine learning
