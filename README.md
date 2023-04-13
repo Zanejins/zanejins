@@ -2,6 +2,7 @@
 
 #### About Me
 
+Now I am a senior in Xi'an University, and I will go to PKU for my PhD in September this year.
 
 #### Research Interests
 - AI4SE & SE4AI ---> Software Requirement Elicitation by machine learning
