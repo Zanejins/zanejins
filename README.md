@@ -8,9 +8,13 @@ Now I am a senior in Xi'an University, and I will go to PKU for my PhD in Septem
 - AI4SE & SE4AI ---> Software Requirement Elicitation by machine learning
 - intelligent tools for software development
 
-#### Recent work
-- I am currently work on name entity recognition to facilitate the extraction of modeling elements.
-- I am looking for collaborate on intelligent tools for software engineer development.
+#### Skills
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanejins&langs_count=5&layout=compact&hide=HTML,CSS,YACC,Vim%20script,Javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
