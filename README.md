@@ -12,8 +12,8 @@ Now I am a senior in Xi'an University, and I will go to PKU for my PhD in Septem
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+<!-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) -->
 
 
 <!--
