@@ -5,12 +5,15 @@
 Now I am a senior in Xi'an University, and I will go to PKU for my PhD in September this year.
 
 #### Research Interests
-- AI4SE & SE4AI ---> Software Requirement Elicitation by machine learning
+- AI4SE & SE4AI 
 - intelligent tools for software development
 
 #### Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <!-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) -->
